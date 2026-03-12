@@ -1,1 +1,9 @@
+body{
+  font-family: Impact;
+}
 
+form{
+  border:solid 2px;
+  padding: 16px;
+  background-color: #882ce4;
+}
